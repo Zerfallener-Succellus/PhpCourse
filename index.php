@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/style.css">
     <title>Curso PHP</title>
 </head>
+
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
@@ -52,7 +54,7 @@
                                 Tipo Inteiro
                             </a>
                         </li>
-        
+
                         <li>
                             <a href="exercicio.php?dir=tipos&file=float">
                                 Tipo Float
@@ -90,6 +92,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=variaveis">
+                                Variáveis
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
@@ -97,4 +109,5 @@
         COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
+
 </html>
