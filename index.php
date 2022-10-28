@@ -110,6 +110,31 @@
                                 Atribuições
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                                Interpolação
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                                Variáveis Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafios_variaveis_variaveis">
+                                Desafio Variáveis Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor vs. Referência
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
